@@ -24,4 +24,4 @@
 | [1018](https://judge.beecrowd.com/pt/problems/view/1018) | Cédulas | Iniciante  | <a href="python/1000-1100/1018.py"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="20"></a> |
 | [1019](https://judge.beecrowd.com/pt/problems/view/1019) | Conversão de Tempo | Iniciante  | <a href="python/1000-1100/1019.py"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="20"></a> |
 | [1020](https://judge.beecrowd.com/pt/problems/view/1020) | Idade em Dias | Iniciante  | <a href="python/1000-1100/1020.py"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="20"></a> |
-
+| [1021](https://judge.beecrowd.com/pt/problems/view/1021) | Notas e Moedas | Iniciante  | <a href="python/1000-1100/1021.py"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="20"></a> |
